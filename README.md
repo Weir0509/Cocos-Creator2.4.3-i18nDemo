@@ -1,1 +1,2 @@
-# Cocos-Creator2.4.3-i18nDemo
+# hello-world
+Hello world new project template.
